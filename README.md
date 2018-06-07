@@ -1,2 +1,57 @@
-# deeplearning
-Materials for Deep Learning reading group
+# Deep Learning Reading Group
+
+Summer 2018
+
+We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. Meetings are Thursdays, 10am (for up to 90 minutes) in Rice 536 (except for June 14 when we will meet in Rice 242). 
+
+## Meeting Schedule
+
+<table>
+  <tr>
+    <td><b>Date</b></td><td>Topic</td><td>Leaders</td></tr>
+  <tr>
+    <td>7 June</td>
+    <td>Planning, Background (Chs 1-4)</td>
+    <td>Dave</td>
+  </tr>
+  <tr>
+    <td>14 June (<font color="red">Rice 242</font>)</td>
+    <td>5: Machine Learning Basics</td>
+    <td>Xiao, Suya</td>
+  </tr>
+  <tr>
+    <td>21 June</td>
+    <td>6: Deep Feedforawrd Networks</td>
+    <td>Bargav, Jonas</td>
+  </tr>
+  <tr>
+    <td>28 June</td>
+    <td>7 (through ~7.7): Regularization for Deep Learning</td>
+    <td>Samin, Jack</td>
+  </tr>
+  <tr>
+    <td>5 July</td>
+    <td colspan=2>No meeting</td>
+  </tr>
+  <tr>
+    <td>12 July</td>
+    <td>7.8-8: More Regularization, Optimization</td>
+    <td>Nathaniel, Bargav</td>
+  </tr>
+  <tr>
+    <td>19 July</td>
+    <td>9: Convolutional Networks</td>
+    <td>Jonas, Xiao</td>
+  </tr>
+  <tr>
+    <td>26 July</td>
+    <td>10: Sequence Modeling (RNNs)</td>
+    <td>Jack, Suya</td>
+  </tr>
+  <tr>
+    <td>2 August</td>
+    <td>14: Autoencoders</td>
+    <td>Samin, Dave</td>
+  </tr>
+  </table>
+  
