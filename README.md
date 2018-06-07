@@ -55,3 +55,7 @@ We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfel
   </tr>
   </table>
   
+  ## Resources
+  
+[Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
+
