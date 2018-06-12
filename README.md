@@ -59,3 +59,8 @@ We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfel
   
 [Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
 
+
+[Caltech ML Course](http://work.caltech.edu/telecourse.html) - Yaser Abu-Mostafa's course (includes video lectures, as well as assignments)
+
+
+
