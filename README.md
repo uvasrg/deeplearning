@@ -8,16 +8,18 @@ We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfel
 
 <table>
   <tr>
-    <td><b>Date</b></td><td>Topic</td><td>Leaders</td></tr>
+    <td><b>Date</b></td><td>Topic</td><td>Leaders</td><td>Exercises, Notes</td></tr>
   <tr>
     <td>7 June</td>
     <td>Planning, Background (Chs 1-4)</td>
     <td>Dave</td>
+    <td></td>
   </tr>
   <tr>
     <td>14 June (<font color="red">Rice 242</font>)</td>
     <td>5: Machine Learning Basics</td>
     <td>Xiao, Suya</td>
+    <td><a href="https://github.com/uvasrg/deeplearning/blob/master/Exercise%20for%20Chapter%205.pdf">Exercises</a>
   </tr>
   <tr>
     <td>21 June</td>
