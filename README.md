@@ -23,7 +23,7 @@ We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfel
   </tr>
   <tr>
     <td>21 June</td>
-    <td>6: Deep Feedforawrd Networks</td>
+    <td>6: Deep Feedforward Networks</td>
     <td>Bargav, Jonas</td>
     <td></td>
   </tr>
