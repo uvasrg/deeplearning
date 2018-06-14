@@ -19,7 +19,7 @@ We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfel
     <td>14 June (<font color="red">Rice 242</font>)</td>
     <td>5: Machine Learning Basics</td>
     <td>Xiao, Suya</td>
-    <td><a href="https://github.com/uvasrg/deeplearning/raw/master/Exercise%20for%20Chapter%205.pdf">Exercises</a>
+    <td><a href="https://github.com/uvasrg/deeplearning/raw/master/Exercise%20for%20Chapter%205.pdf">Exercises</a>, <a href="https://github.com/uvasrg/deeplearning/raw/master/notes/ch5-scaled.pdf">Notes</a>
   </tr>
   <tr>
     <td>21 June</td>
