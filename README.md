@@ -58,7 +58,7 @@ We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfel
   <tr>
     <td>2 August</td>
     <td>14: Autoencoders</td>
-    <td>Samin, Dave</td>
+    <td>Samin, Matt</td>
     <td></td>
   </tr>
   </table>
