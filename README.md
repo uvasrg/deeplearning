@@ -41,7 +41,7 @@ We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfel
     <td>12 July</td>
     <td>7.8-8: More Regularization, Optimization</td>
     <td>Nathaniel, Bargav</td>
-    <td></td>
+    <td><a href="https://github.com/uvasrg/deeplearning/raw/master/notes/NNTraining.py">Practice Code</a></td>
   </tr>
   <tr>
     <td>19 July</td>
