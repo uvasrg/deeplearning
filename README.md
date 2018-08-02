@@ -61,6 +61,12 @@ We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfel
     <td>Samin, Matt</td>
     <td></td>
   </tr>
+  <tr>
+    <td>9 August</td>
+    <td>Reinforcement Learning</td>
+    <td>Samin</td>
+    <td></td>
+  </tr>
   </table>
   
   ## Resources
