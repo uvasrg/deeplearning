@@ -59,7 +59,7 @@ We are studying [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfel
     <td>2 August</td>
     <td>14: Autoencoders</td>
     <td>Samin, Matt</td>
-    <td></td>
+    <td><a href="https://github.com/uvasrg/deeplearning/raw/master/notes/autoencodernotes.pdf>[Notes] (Matt)</a></td>
   </tr>
   <tr>
     <td>9 August</td>
